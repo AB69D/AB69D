@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **khanabid7474@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1HA_vhTK6PZ9soDhbsJueTF1pauaO7f3aKjxH3dCVaW8/edit?usp=sharing](https://docs.google.com/document/d/1HA_vhTK6PZ9soDhbsJueTF1pauaO7f3aKjxH3dCVaW8/edit?usp=sharing)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **PLaying pubg**
 
