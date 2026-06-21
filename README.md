@@ -28,21 +28,6 @@
 
 ---
 
-### 💼 Work Experience
-
-**Junior Software Developer — Bista Solutions Inc** *(Oct 2023 – Present)*
-- **SonnerPipe 360** — Inventory & barcode scanning with offline synchronization
-- **Bista Field Service** — CRM app with Google Maps, GPS tracking, automated check-in/out
-- **Fleet** — Shipment delivery tracker with continuous location logging
-- **ZPS POS** — Proximity detection system with 500 m geofencing via foreground service
-- **Saleorder App** — E-commerce integration for sales order management & invoicing
-
-**IoT Flutter Developer — EraVend GmbH & Co. KG** *(Aug 2024 – Jan 2025)*
-- **Pizza Vending Machine** — Multi-product vending system managing 4 motors, 32 sensors, real-time notifications
-- **Eravend Client** — Flutter management app with QR-based machine tracking & ad scheduling
-
----
-
 ### 🚀 Notable Projects
 
 | Project | Description | Tech |
