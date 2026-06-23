@@ -1,121 +1,157 @@
-<h1 align="center">Hi 👋, I'm Md. Manzurul Islam</h1>
-<h3 align="center">Software Developer · Flutter · Full-Stack · IoT · ML Research</h3>
-<h4 align="center">📍 Mirpur, Dhaka, Bangladesh</h4>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ab69d&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+# Hi, I'm Manzurul Islam 👋
 
----
+**Junior Software Developer @ Bista Solutions Inc.**
 
-### 👨‍💻 About Me
+Flutter · Full-Stack Web · IoT · ML
 
-- 🔭 Junior Software Developer at **Bista Solutions Inc** (Oct 2023 – Present)
-- 📱 Building cross-platform mobile apps with **Flutter & Dart** — offline sync, GPS tracking, BLE, geofencing
-- 🌐 Full-stack side: **Node.js / Express · Next.js · MongoDB · Docker · Caddy**
-- 🤖 IoT experience: **Flutter + Arduino + C++**, 4-motor vending machine with 32 sensors
-- 🧠 Published ML researcher — Springer Q2 journal, Impact Factor 3.0
-- 🏆 **Top 10 Innovator** — Digital Bangladesh Mela 2023 (featured in আজকের পত্রিকা & News24 TV)
-- 📫 **khanabid7474@gmail.com** · [LinkedIn](https://www.linkedin.com/in/ab9d/) · [Dev.to](https://dev.to/md_manzurulislam_8e3542)
+📍 Mirpur, Dhaka, Bangladesh
+
+</div>
 
 ---
 
-### 🎓 Education
+## 🧑‍💻 About Me
 
-| Degree | Institution | Year | CGPA |
-|--------|-------------|------|------|
-| B.Sc. Engineering in CSE | Bangladesh University of Business and Technology (BUBT) | 2019 – 2023 | 3.73 / 4.00 |
+Passionate software developer with hands-on experience in **cross-platform mobile apps**, **full-stack web platforms**, and **embedded IoT systems**.
 
----
-
-### 🚀 Notable Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🍎 **Apple Disease Diagnosis** | Deep learning neural network for precision agriculture | Python, TensorFlow |
-| 🩺 **Diabetes Prediction** | Stacked ensemble ML — published in **Springer Q2** journal (IF 3.0) | Python, Scikit-learn |
-| 💡 **Dimmable Light Bulbs** | Energy-efficient IoT bulb — **Top 10 Innovator** at Digital Bangladesh Mela 2023 | C++, NodeMcu |
-| 🏁 **ICPC Schedule App** | Official schedule app for Asia Dhaka Regional Contest 2023 | Flutter, Dart |
-| 🛒 **E-commerce Platform** | Full-stack multi-tenant SaaS with MongoDB replica set, Next.js & Docker | Node.js, Next.js, MongoDB |
+- 🎓 B.Sc. in CSE — **Bangladesh University of Business and Technology** (CGPA: 3.73/4.00)
+- 💼 Working at **Bista Solutions Inc.** since October 2023
+- 🏆 **Top 10 Innovator** at Digital Bangladesh Mela 2023 (energy-efficient IoT light bulbs)
+- 📰 Featured in **আজকের পত্রিকা** and **News24 TV**
+- 📅 Built the official schedule app for **Asia Dhaka Regional ICPC 2023**
+- 📖 Published researcher in a **Springer Q2 journal** (Impact Factor 3.0) — ensemble ML methods for agricultural disease & diabetes prediction
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<p align="left">
-  <!-- Mobile -->
-  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" title="Dart"/></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" title="Flutter"/></a>
-  <!-- Web / Backend -->
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" title="Node.js"/></a>
-  <a href="https://nextjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/></a>
-  <a href="https://isocpp.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/></a>
-  <!-- Databases -->
-  <a href="https://www.mongodb.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" title="MongoDB"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" title="PostgreSQL"/></a>
-  <!-- DevOps / Infra -->
-  <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" title="Docker"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/></a>
-  <!-- ML / AI -->
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" title="TensorFlow"/></a>
-  <!-- IoT -->
-  <a href="https://www.arduino.cc" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40" title="Arduino"/></a>
-  <!-- Tools -->
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" title="Firebase"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" title="Git"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" title="Postman"/></a>
-</p>
+**Mobile**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
----
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-### 🏅 Certifications & Awards
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-- 🥇 **Top 10 Innovator** — Digital Bangladesh Mela 2023 *(Energy-Efficient Dimmable Light Bulbs)*
-- 📰 Media coverage — আজকের পত্রিকা & News24 TV *(January 2023)*
-- 📜 Introduction to Machine Learning with Python — **BUET** *(March 2022)*
-- 🖥️ Server Administration (Windows & Linux) — **SEIP | BASIS**
+**Database & Storage**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+
+**IoT & Embedded**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+**DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-### 🧩 Competitive Programming
+## 🚀 Featured Projects
 
-<p align="left">
-  <img src="https://img.shields.io/badge/LeetCode-120%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerRank-100%2B%20solved-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codeforces-30%2B%20solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</p>
+### 📱 [Comment-to-DM SaaS](https://github.com/AB69D/comment-to-dm)
+> Automate Facebook engagement — auto-reply intelligent DMs to post comments
 
----
+Built with a clean **data / domain / presentation** Flutter architecture.
 
-### 📊 GitHub Stats
+- 🔐 **Facebook OAuth** for seamless login
+- 🔄 **Riverpod** state management + **Go Router** navigation
+- 💾 Offline-first with **Drift** (SQLite) local database
+- 🌐 REST API calls via **Dio**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ab69d&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab69d&theme=radical" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab69d&layout=compact&theme=radical" alt="top languages" />
-</p>
+`Flutter` `Dart` `Riverpod` `Facebook Auth` `Drift` `Dio`
 
 ---
 
-### 🌐 Connect with Me
+### 🛒 [Gram2Ghor — Full-Stack E-Commerce Platform](https://github.com/AB69D/gram2ghor)
+> End-to-end e-commerce platform with storefront, admin panel, cart, orders, and reviews
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ab9d/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
-  </a>
-  <a href="https://dev.to/md_manzurulislam_8e3542" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40"/>
-  </a>
-</p>
+- 🖥️ **Next.js** storefront — dynamic product & category browsing
+- ⚙️ **Express + Node.js** REST API with JWT auth middleware
+- 🖼️ Image uploads via **Cloudinary**
+- 📦 Features: cart, orders, reviews, contact messages, admin management
+- 🐳 Containerized with **Docker** + **Caddy** reverse proxy
+
+`Next.js` `Express` `MongoDB` `Cloudinary` `Docker` `Caddy`
 
 ---
 
-<p align="center"><i>"Building things that work — mobile, web, IoT, or wherever the problem is."</i></p>
+### 🏍️ [Dokan — Motorcycle Inventory & Billing System](https://github.com/AB69D/dokan)
+> Complete POS + inventory management solution for motorcycle shops
+
+- 📊 Dashboard, Products, Sales, Purchases, Customers, Members
+- 🔧 **Service Jobs** tracking with detailed job view
+- 💰 **Accounting** module with full sales history
+- ✅ **Tanstack Query** + **React Hook Form** + **Zod** validation
+- 🐍 **Python** backend with Docker support
+
+`React` `TypeScript` `Tailwind CSS` `Vite` `Python` `Docker`
+
+---
+
+### 🛍️ [Demo E-Commerce — Next.js + Express Monorepo](https://github.com/AB69D/demo-ecommerce)
+> Modular full-stack e-commerce starter with clean monorepo structure
+
+- 🖥️ **Next.js** frontend + **Express/Node.js** backend
+- 🗄️ **MongoDB** database with production-ready env config
+
+`Next.js` `Express` `MongoDB` `Node.js`
+
+---
+
+## 📊 Competitive Programming
+
+| Platform | Problems Solved |
+|----------|-----------------|
+| 🟡 LeetCode | 120+ |
+| 🟢 HackerRank | 100+ |
+| 🔵 Codeforces | 30+ |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<!-- Stats card — pulls live data from GitHub API -->
+<img src="https://github-readme-stats.vercel.app/api?username=AB69D&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=AB69D%27s%20GitHub%20Stats" height="170" />
+
+<!-- Top languages — based on public repos -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AB69D&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+
+</div>
+
+<div align="center">
+
+<!-- Contribution streak -->
+<img src="https://streak-stats.demolab.com?user=AB69D&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="100%" />
+
+</div>
+
+### At a glance
+
+| Metric | Count |
+|--------|-------|
+| 📦 Total repositories | 40 |
+| ⭐ Stars earned | 15 |
+| 📝 Commits this year | 182 |
+| 👥 Followers | 3 |
+
+---
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ab9d/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/md_manzurulislam_8e3542)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khanabid7474@gmail.com)
